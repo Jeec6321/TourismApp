@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">TurismApp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="accept">Aceept</string>
+    <string name="place">Place</string>
+
+    <!-- Splash Activity-->
+    <string name="gps_dialog">Turn on GPS</string>
+    <string name="message_gps_dialog">To consult the nearby sites please activate the GPS in High precision.</string>
+    <string name="positive_gps_dialog">Activate</string>
+    <string name="negative_gps_dialog">Cancel</string>
+
+    <!-- Main Activity -->
+    <string name="internet_error_dialog_title">Error de internet</string>
+    <string name="internet_error_dialog_message">An internet connection error has been detected, due to this you will only be able to see your places saved in favorites.</string>
+
+    <!-- Map Fragment -->
+    <string name="search">Search</string>
+    <string name="default_distance">10 km</string>
+    <string name="you_are_here">You are here</string>
+
+    <!-- PlacesListFragment -->
+    <string name="places">Places</string>
+    <string name="favorites">Favorites</string>
+    <string name="is_open">Is open now</string>
+    <string name="is_close">Is close now</string>
+    <string name="km_distance_text">Is surveyed at %1$s km</string>
+    <string name="m_distance_text">Is surveyed at %1$s m</string>
+    <string name="check_internet">Please check yout internet conection</string>
+
+
+    <!-- Place details -->
+    <string name="rating_text">Rating: %1$s</string>
+    <string name="there_is_no_reviews">No other user reviews found</string>
+
+</resources>
